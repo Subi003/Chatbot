@@ -1,0 +1,15 @@
+1st - npm init // using terminal
+desc. chatbot app
+keyword chatbot application
+
+create file index.js
+
+npm install express
+
+npm install express mongoose nodemon dotenv
+
+create .env file
+
+mongodb+srv://sudhanshbhardwaj03_db_user:T3XKT3VmUCgRqXij@cluster0.33d8ibh.mongodb.net/
+
+Talvind CSS : Vite
